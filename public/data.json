@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "user": "John Doe",
+            "comment": "This is a great article!"
+        },
+        {
+            "user": "Jane Smith",
+            "comment": "Very informative, thanks for sharing."
+        }
+    ]
+}
